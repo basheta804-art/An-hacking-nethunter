@@ -27,6 +27,7 @@ Always obtain proper written permission before testing any system.
 # In Termux/NetHunter
 curl -sL https://raw.githubusercontent.com/basheta804-art/an-hacking-nethunter/main/install_nethunter.sh | bash
 
+
 ## Manual Install
 
 pkg update && pkg upgrade -y
