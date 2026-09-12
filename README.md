@@ -25,4 +25,4 @@ Always obtain proper written permission before testing any system.
 
 ```bash
 # In Termux/NetHunter
-curl -sL https://raw.githubusercontent.com/YOUR_USERNAME/an-hacking-nethunter/main/install_nethunter.sh | bash
+curl -sL https://raw.githubusercontent.com/basheta804-art/an-hacking-nethunter/main/install_nethunter.sh | bash
