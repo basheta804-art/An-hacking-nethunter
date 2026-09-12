@@ -26,3 +26,10 @@ Always obtain proper written permission before testing any system.
 ```bash
 # In Termux/NetHunter
 curl -sL https://raw.githubusercontent.com/basheta804-art/an-hacking-nethunter/main/install_nethunter.sh | bash
+
+## Manual Install
+
+pkg update && pkg upgrade -y
+pkg install python nmap nikto git -y
+pip install -r requirements.txt
+python an_hacking_nethunter.py
